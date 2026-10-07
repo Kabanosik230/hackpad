@@ -15,3 +15,5 @@ My 3x3 macropad project for Hack Club Stardance. It features 9 MX switches, a 0.
 * `cad/` - 3D case model (.step)
 * `pcb/` - KiCad PCB files (.kicad_sch, .kicad_pcb)
 * `keyboards/hackpad/` - QMK firmware setup
+<img width="1920" height="1200" alt="PCB" src="https://github.com/user-attachments/assets/ca196f27-53c4-4c2e-b076-d0d60b182098" />
+<img width="1020" height="821" alt="obraz" src="https://github.com/user-attachments/assets/983872d7-30bf-4847-b794-ac030b7d0794" />
